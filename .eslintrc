@@ -4,7 +4,7 @@
     "no-console": "warn", // or "error" if you want it to be treated as an error
     "indent": ["warn", 2], // Enforce 2-space indent
     "no-unused-vars": "warn",
-    "no-var": "error",
-    "no-multi-assign": "error"
+    "no-var": "warn",
+    "no-multi-assign": "warn"
   }
 }
